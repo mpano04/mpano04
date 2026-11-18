@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Maurice Mpano!
 
-<!--
-**mpano04/mpano04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Aspiring Software Engineer and AI Engineer passionate about building practical, scalable software solutions and intelligent applications. Interested in full-stack development, problem-solving, and applying AI to real-world challenges.
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- **Frontend:** JavaScript, React, HTML5, CSS3
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** PostgreSQL, SQL
+- **AI Engineering:** LLMs, RAG, Agentic AI
+- **Tools:** Git, GitHub, VS Code, npm, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Software Architecture and System Design
+- Advanced Full-Stack Development
+- AI Engineering and LLM Integration
+- RAG Systems and AI-powered Applications
+
+---
+**Learn. Build. Innovate.**
